@@ -1,0 +1,21 @@
+﻿driver_id,driver_name ,number_plate ,driver_license_no,rating
+101,Rajesh Kumar  , KA-02-JP-123, IN-DL-20211234,4.7
+102,Priya Sharma  , MH-04-AB-567, IN-MH-20221234,4.5
+103,Arjun Singh   , TN-07-CD-890, IN-TN-20231234,4.2
+104,Ayesha Patel  , GJ-05-EF-123, IN-GJ-20241234,4.8
+105,Ramesh Verma  , HR-03-GH-456, IN-HR-20251234,4
+106,Anjali Gupta  , DL-01-IJ-789, IN-DL-20261234,4.6
+107,Sanjay Singh  , UP-09-KL-321, IN-UP-20271234,4.3
+108,Meera Reddy   , TS-06-MN-654, IN-TS-20281234,4.9
+109,Sameer Joshi  , MH-12-OP-987, IN-MH-20291234,4.4
+110,Kavita Sharma , KA-08-QR-123, IN-KA-20301234,4.7
+111,Vikram Yadav  , TN-15-RS-567, IN-TN-20311234,4.5
+112,Preeti Das    , WB-11-TU-890, IN-WB-20321234,4.1
+113,Rohit Patel   , GJ-17-VW-123, IN-GJ-20331234,4.7
+114,Shreya Gupta  , DL-20-XY-456, IN-DL-20341234,4.6
+115,Rajat Verma   , UP-22-ZA-789, IN-UP-20351234,4.3
+116,Aaradhya Reddy,TS-24-BC-654 ,IN-TS-20361234 ,4.9
+117,Nandini Joshi ,MH-27-DE-987 ,IN-MH-20371234 ,4.4
+118,Pranav Kapoor , RJ-31-FG-123, IN-RJ-20381234,4.6
+119,Anita Singh   , BR-35-HI-567, IN-BR-20391234,4.5
+120,Aniket Tiwari , MP-40-JK-890, IN-MP-20401234,4.2
